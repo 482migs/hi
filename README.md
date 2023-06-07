@@ -1,7 +1,11 @@
 <div align="center">
     <h1>hi</h1>
-    Hello, World! in ~~every~~ a lot of programming languages.
+    Hello, World! in <s>every</s> a lot of programming languages.
 </div>
+
+## Running the examples
+Assuming you have the interpreters/compilers for every language listed, clone the repo with either `gh repo clone 482migs/hi`, or `git clone https://github.com/482migs/hi`. Open the directory in 
+
 
 <table>
     <tr>
