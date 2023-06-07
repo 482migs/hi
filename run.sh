@@ -5,4 +5,7 @@ g++ cpp.cpp && ./a.out
 go run go.go
 javac Java.java && java Java
 oak oak.oak
-zig run zig.zig
+odin run odin.odin -file
+python3 python.py
+rustc rust.rs && ./rust
+zig run zig.zig 
